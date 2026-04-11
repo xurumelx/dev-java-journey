@@ -22,6 +22,7 @@ public class Main {
         System.out.println("Id trabalhador: "+ id);
         System.out.printf("Salário: R$ %.2f%n", salario);
 
+
         sc.close();
 
     }
