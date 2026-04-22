@@ -1,4 +1,4 @@
-package com.github.naty;
+package exercicios.pecas;
 
 import java.util.Scanner;
 

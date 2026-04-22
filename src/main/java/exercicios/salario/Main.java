@@ -1,4 +1,4 @@
-package com.github.naty;
+package exercicios.salario;
 import java.util.Scanner;
 
 public class Main {

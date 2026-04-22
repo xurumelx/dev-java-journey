@@ -1,4 +1,4 @@
-package com.github.naty;
+package exercicios.vetor;
 
 import java.util.Arrays;
 
